@@ -1,0 +1,45 @@
+{
+  "name": "TradeBird",
+  "version": "0.0.1",
+  "description": "Template for future use",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [
+    "Template",
+    "for",
+    "future",
+    "use"
+  ],
+  "author": "AvusCapital",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.1.1",
+    "grunt": "~0.4.2",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.12.1",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-csscomb": "^3.1.0",
+    "grunt-includes": "~0.4.2",
+    "grunt-phpunit": "~0.3.2",
+    "grunt-postcss": "^0.7.1",
+    "jshint-stylish": "~0.1.5"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,196 @@
+html,
+body {
+  border: 0;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-overflow-scrolling: touch;
+  height: 100%;
+  display: table;
+  width: 100%;
+}
+body {
+  width: 100%;
+  background-color: #F4F4F4;
+  -webkit-text-size-adjust: 100%;
+}
+div,
+span,
+object,
+iframe,
+img,
+table,
+caption,
+thead,
+tbody,
+tfoot,
+tr,
+tr,
+td,
+article,
+aside,
+canvas,
+details,
+figure,
+hgroup,
+menu,
+nav,
+footer,
+header,
+section,
+summary,
+mark,
+audio,
+video {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+address,
+cit,
+code,
+del,
+dfn,
+em,
+ins,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+b,
+i,
+hr,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+legend,
+label {
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  color: #343738;
+  font-weight: 400;
+}
+h1 {
+  font-family: Asap;
+  font-weight: 400;
+}
+article,
+aside,
+canvas,
+figure,
+figure img,
+figcaption,
+hgroup,
+footer,
+header,
+nav,
+section,
+audio,
+video {
+  display: block;
+}
+a {
+  text-decoration: none;
+}
+a img {
+  border: 0;
+}
+input {
+  -webkit-appearance: none;
+  border-radius: 0;
+  outline: none;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-transition: background-color 5000s ease-in-out 0s;
+          transition: background-color 5000s ease-in-out 0s;
+  -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+:focus {
+  outline: 0;
+}
+.center {
+  text-align: center;
+}
+.link {
+  color: #099697;
+  text-decoration: underline;
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Light.eot?') format('eot'), url('../fonts/Open_Sans/OpenSans-Light.woff') format('woff'), url('../fonts/Open_Sans/OpenSans-Light.ttf') format('truetype'), url('assets/fonts/Open_Sans/OpenSans-Light.svg#OpenSans-Light') format('svg');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Bold.eot?') format('eot'), url('../fonts/Open_Sans/OpenSans-Bold.woff') format('woff'), url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype'), url('assets/fonts/Open_Sans/OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Asap';
+  src: url('../fonts/Asap/Asap-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Asap';
+  src: url('../fonts/Asap/Asap-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+#container {
+  background: url('../images/bg.png');
+  overflow: hidden;
+  background-size: contain;
+}
+.layer img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+

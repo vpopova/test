@@ -41,5 +41,8 @@
     "grunt-postcss": "^0.7.1",
     "jshint-stylish": "~0.1.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "grunt": "~0.4",
+    "grunt-cli": "~0.1"
+  }
 }
